@@ -38,14 +38,14 @@
 #define super OSCollection
 
 OSDefineMetaClassAndStructors(OSDictionary, OSCollection)
-OSMetaClassDefineReservedUnused(OSDictionary, 0);
-OSMetaClassDefineReservedUnused(OSDictionary, 1);
-OSMetaClassDefineReservedUnused(OSDictionary, 2);
-OSMetaClassDefineReservedUnused(OSDictionary, 3);
-OSMetaClassDefineReservedUnused(OSDictionary, 4);
-OSMetaClassDefineReservedUnused(OSDictionary, 5);
-OSMetaClassDefineReservedUnused(OSDictionary, 6);
-OSMetaClassDefineReservedUnused(OSDictionary, 7);
+OSMetaClassDefineReservedUnused(OSDictionary, 0)
+OSMetaClassDefineReservedUnused(OSDictionary, 1)
+OSMetaClassDefineReservedUnused(OSDictionary, 2)
+OSMetaClassDefineReservedUnused(OSDictionary, 3)
+OSMetaClassDefineReservedUnused(OSDictionary, 4)
+OSMetaClassDefineReservedUnused(OSDictionary, 5)
+OSMetaClassDefineReservedUnused(OSDictionary, 6)
+OSMetaClassDefineReservedUnused(OSDictionary, 7)
 
 #if OSALLOCDEBUG
 extern "C" {

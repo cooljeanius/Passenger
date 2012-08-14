@@ -5,14 +5,14 @@
 
 OSDefineMetaClassAndStructors(OSArray, OSCollection)
 
-OSMetaClassDefineReservedUnused(OSArray, 0);
-OSMetaClassDefineReservedUnused(OSArray, 1);
-OSMetaClassDefineReservedUnused(OSArray, 2);
-OSMetaClassDefineReservedUnused(OSArray, 3);
-OSMetaClassDefineReservedUnused(OSArray, 4);
-OSMetaClassDefineReservedUnused(OSArray, 5);
-OSMetaClassDefineReservedUnused(OSArray, 6);
-OSMetaClassDefineReservedUnused(OSArray, 7);
+OSMetaClassDefineReservedUnused(OSArray, 0)
+OSMetaClassDefineReservedUnused(OSArray, 1)
+OSMetaClassDefineReservedUnused(OSArray, 2)
+OSMetaClassDefineReservedUnused(OSArray, 3)
+OSMetaClassDefineReservedUnused(OSArray, 4)
+OSMetaClassDefineReservedUnused(OSArray, 5)
+OSMetaClassDefineReservedUnused(OSArray, 6)
+OSMetaClassDefineReservedUnused(OSArray, 7)
 
 #if OSALLOCDEBUG
 extern "C" {

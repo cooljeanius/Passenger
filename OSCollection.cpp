@@ -34,14 +34,14 @@
 OSDefineMetaClassAndAbstractStructors(OSCollection, OSObject)
 
 
-OSMetaClassDefineReservedUsed(OSCollection, 0);
-OSMetaClassDefineReservedUsed(OSCollection, 1);
-OSMetaClassDefineReservedUnused(OSCollection, 2);
-OSMetaClassDefineReservedUnused(OSCollection, 3);
-OSMetaClassDefineReservedUnused(OSCollection, 4);
-OSMetaClassDefineReservedUnused(OSCollection, 5);
-OSMetaClassDefineReservedUnused(OSCollection, 6);
-OSMetaClassDefineReservedUnused(OSCollection, 7);
+OSMetaClassDefineReservedUsed(OSCollection, 0)
+OSMetaClassDefineReservedUsed(OSCollection, 1)
+OSMetaClassDefineReservedUnused(OSCollection, 2)
+OSMetaClassDefineReservedUnused(OSCollection, 3)
+OSMetaClassDefineReservedUnused(OSCollection, 4)
+OSMetaClassDefineReservedUnused(OSCollection, 5)
+OSMetaClassDefineReservedUnused(OSCollection, 6)
+OSMetaClassDefineReservedUnused(OSCollection, 7)
 
 bool OSCollection::init()
 {

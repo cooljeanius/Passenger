@@ -36,22 +36,22 @@
 #define super OSObject
 
 OSDefineMetaClassAndStructors(OSString, OSObject)
-OSMetaClassDefineReservedUnused(OSString,  0);
-OSMetaClassDefineReservedUnused(OSString,  1);
-OSMetaClassDefineReservedUnused(OSString,  2);
-OSMetaClassDefineReservedUnused(OSString,  3);
-OSMetaClassDefineReservedUnused(OSString,  4);
-OSMetaClassDefineReservedUnused(OSString,  5);
-OSMetaClassDefineReservedUnused(OSString,  6);
-OSMetaClassDefineReservedUnused(OSString,  7);
-OSMetaClassDefineReservedUnused(OSString,  8);
-OSMetaClassDefineReservedUnused(OSString,  9);
-OSMetaClassDefineReservedUnused(OSString, 10);
-OSMetaClassDefineReservedUnused(OSString, 11);
-OSMetaClassDefineReservedUnused(OSString, 12);
-OSMetaClassDefineReservedUnused(OSString, 13);
-OSMetaClassDefineReservedUnused(OSString, 14);
-OSMetaClassDefineReservedUnused(OSString, 15);
+OSMetaClassDefineReservedUnused(OSString,  0)
+OSMetaClassDefineReservedUnused(OSString,  1)
+OSMetaClassDefineReservedUnused(OSString,  2)
+OSMetaClassDefineReservedUnused(OSString,  3)
+OSMetaClassDefineReservedUnused(OSString,  4)
+OSMetaClassDefineReservedUnused(OSString,  5)
+OSMetaClassDefineReservedUnused(OSString,  6)
+OSMetaClassDefineReservedUnused(OSString,  7)
+OSMetaClassDefineReservedUnused(OSString,  8)
+OSMetaClassDefineReservedUnused(OSString,  9)
+OSMetaClassDefineReservedUnused(OSString, 10)
+OSMetaClassDefineReservedUnused(OSString, 11)
+OSMetaClassDefineReservedUnused(OSString, 12)
+OSMetaClassDefineReservedUnused(OSString, 13)
+OSMetaClassDefineReservedUnused(OSString, 14)
+OSMetaClassDefineReservedUnused(OSString, 15)
 
 #if OSALLOCDEBUG
 extern "C" {

@@ -9,7 +9,7 @@ class OSCollection : public OSObject
 {
     friend class OSCollectionIterator;
 
-    OSDeclareAbstractStructors(OSCollection);
+    OSDeclareAbstractStructors(OSCollection)
 
     struct ExpansionData { };
     
@@ -46,9 +46,9 @@ public:
         unsigned   mask,
         void     * context = 0);
 	
-    OSMetaClassDeclareReservedUsed(OSCollection, 0);
+    OSMetaClassDeclareReservedUsed(OSCollection, 0)
     virtual OSCollection *copyCollection(OSDictionary * cycleDict = 0);
-    OSMetaClassDeclareReservedUsed(OSCollection, 1);
+    OSMetaClassDeclareReservedUsed(OSCollection, 1)
 
 
     OSMetaClassDeclareReservedUnused(OSCollection, 2);

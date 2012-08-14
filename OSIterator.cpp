@@ -35,8 +35,8 @@
 #include "OSIterator.h"
 
 OSDefineMetaClassAndAbstractStructors(OSIterator, OSObject)
-OSMetaClassDefineReservedUnused(OSIterator, 0);
-OSMetaClassDefineReservedUnused(OSIterator, 1);
-OSMetaClassDefineReservedUnused(OSIterator, 2);
-OSMetaClassDefineReservedUnused(OSIterator, 3);
+OSMetaClassDefineReservedUnused(OSIterator, 0)
+OSMetaClassDefineReservedUnused(OSIterator, 1)
+OSMetaClassDefineReservedUnused(OSIterator, 2)
+OSMetaClassDefineReservedUnused(OSIterator, 3)
 

@@ -40,3 +40,6 @@ volatile int kmod_start(void)
 	
 	return 0;
 }
+
+// newline! \n
+

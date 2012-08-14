@@ -35,14 +35,14 @@
 #define super OSObject
 
 OSDefineMetaClassAndStructors(OSSerialize, OSObject)
-OSMetaClassDefineReservedUnused(OSSerialize, 0);
-OSMetaClassDefineReservedUnused(OSSerialize, 1);
-OSMetaClassDefineReservedUnused(OSSerialize, 2);
-OSMetaClassDefineReservedUnused(OSSerialize, 3);
-OSMetaClassDefineReservedUnused(OSSerialize, 4);
-OSMetaClassDefineReservedUnused(OSSerialize, 5);
-OSMetaClassDefineReservedUnused(OSSerialize, 6);
-OSMetaClassDefineReservedUnused(OSSerialize, 7);
+OSMetaClassDefineReservedUnused(OSSerialize, 0)
+OSMetaClassDefineReservedUnused(OSSerialize, 1)
+OSMetaClassDefineReservedUnused(OSSerialize, 2)
+OSMetaClassDefineReservedUnused(OSSerialize, 3)
+OSMetaClassDefineReservedUnused(OSSerialize, 4)
+OSMetaClassDefineReservedUnused(OSSerialize, 5)
+OSMetaClassDefineReservedUnused(OSSerialize, 6)
+OSMetaClassDefineReservedUnused(OSSerialize, 7)
 
 #if OSALLOCDEBUG
 extern "C" {

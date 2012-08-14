@@ -57,22 +57,22 @@ OSObject::MetaClass::MetaClass()
     { }
 
 // Virtual Padding
-OSMetaClassDefineReservedUnused(OSObject,  0);
-OSMetaClassDefineReservedUnused(OSObject,  1);
-OSMetaClassDefineReservedUnused(OSObject,  2);
-OSMetaClassDefineReservedUnused(OSObject,  3);
-OSMetaClassDefineReservedUnused(OSObject,  4);
-OSMetaClassDefineReservedUnused(OSObject,  5);
-OSMetaClassDefineReservedUnused(OSObject,  6);
-OSMetaClassDefineReservedUnused(OSObject,  7);
-OSMetaClassDefineReservedUnused(OSObject,  8);
-OSMetaClassDefineReservedUnused(OSObject,  9);
-OSMetaClassDefineReservedUnused(OSObject, 10);
-OSMetaClassDefineReservedUnused(OSObject, 11);
-OSMetaClassDefineReservedUnused(OSObject, 12);
-OSMetaClassDefineReservedUnused(OSObject, 13);
-OSMetaClassDefineReservedUnused(OSObject, 14);
-OSMetaClassDefineReservedUnused(OSObject, 15);
+OSMetaClassDefineReservedUnused(OSObject,  0)
+OSMetaClassDefineReservedUnused(OSObject,  1)
+OSMetaClassDefineReservedUnused(OSObject,  2)
+OSMetaClassDefineReservedUnused(OSObject,  3)
+OSMetaClassDefineReservedUnused(OSObject,  4)
+OSMetaClassDefineReservedUnused(OSObject,  5)
+OSMetaClassDefineReservedUnused(OSObject,  6)
+OSMetaClassDefineReservedUnused(OSObject,  7)
+OSMetaClassDefineReservedUnused(OSObject,  8)
+OSMetaClassDefineReservedUnused(OSObject,  9)
+OSMetaClassDefineReservedUnused(OSObject, 10)
+OSMetaClassDefineReservedUnused(OSObject, 11)
+OSMetaClassDefineReservedUnused(OSObject, 12)
+OSMetaClassDefineReservedUnused(OSObject, 13)
+OSMetaClassDefineReservedUnused(OSObject, 14)
+OSMetaClassDefineReservedUnused(OSObject, 15)
 
 static const char *getClassName(const OSObject *obj)
 {

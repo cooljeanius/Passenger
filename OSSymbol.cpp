@@ -428,14 +428,14 @@ void OSSymbolPool::removeSymbol(OSSymbol *sym)
  */
 OSDefineMetaClassAndStructorsWithInit(OSSymbol, OSString,
                                       OSSymbol::initialize())
-OSMetaClassDefineReservedUnused(OSSymbol, 0);
-OSMetaClassDefineReservedUnused(OSSymbol, 1);
-OSMetaClassDefineReservedUnused(OSSymbol, 2);
-OSMetaClassDefineReservedUnused(OSSymbol, 3);
-OSMetaClassDefineReservedUnused(OSSymbol, 4);
-OSMetaClassDefineReservedUnused(OSSymbol, 5);
-OSMetaClassDefineReservedUnused(OSSymbol, 6);
-OSMetaClassDefineReservedUnused(OSSymbol, 7);
+OSMetaClassDefineReservedUnused(OSSymbol, 0)
+OSMetaClassDefineReservedUnused(OSSymbol, 1)
+OSMetaClassDefineReservedUnused(OSSymbol, 2)
+OSMetaClassDefineReservedUnused(OSSymbol, 3)
+OSMetaClassDefineReservedUnused(OSSymbol, 4)
+OSMetaClassDefineReservedUnused(OSSymbol, 5)
+OSMetaClassDefineReservedUnused(OSSymbol, 6)
+OSMetaClassDefineReservedUnused(OSSymbol, 7)
 
 static OSSymbolPool *pool;
 

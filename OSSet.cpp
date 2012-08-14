@@ -36,14 +36,14 @@
 #define super OSCollection
 
 OSDefineMetaClassAndStructors(OSSet, OSCollection)
-OSMetaClassDefineReservedUnused(OSSet, 0);
-OSMetaClassDefineReservedUnused(OSSet, 1);
-OSMetaClassDefineReservedUnused(OSSet, 2);
-OSMetaClassDefineReservedUnused(OSSet, 3);
-OSMetaClassDefineReservedUnused(OSSet, 4);
-OSMetaClassDefineReservedUnused(OSSet, 5);
-OSMetaClassDefineReservedUnused(OSSet, 6);
-OSMetaClassDefineReservedUnused(OSSet, 7);
+OSMetaClassDefineReservedUnused(OSSet, 0)
+OSMetaClassDefineReservedUnused(OSSet, 1)
+OSMetaClassDefineReservedUnused(OSSet, 2)
+OSMetaClassDefineReservedUnused(OSSet, 3)
+OSMetaClassDefineReservedUnused(OSSet, 4)
+OSMetaClassDefineReservedUnused(OSSet, 5)
+OSMetaClassDefineReservedUnused(OSSet, 6)
+OSMetaClassDefineReservedUnused(OSSet, 7)
 
 #define EXT_CAST(obj) \
     reinterpret_cast<OSObject *>(const_cast<OSMetaClassBase *>(obj))
